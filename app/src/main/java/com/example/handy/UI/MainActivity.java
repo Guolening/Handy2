@@ -17,6 +17,9 @@ public class MainActivity extends AppCompatActivity {
     Button btn2;
     Button btn3;
     Button btn4;
+    /*
+    添加一行注释，测试能不能push到github上
+    */
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
