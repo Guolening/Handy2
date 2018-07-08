@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_spn_week_content">
+        <item>全部</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>日</item>
+    </string-array>
+
+    <string-array name="empty_spn_jieci_content">
+        <item>全部</item>
+        <item>01-02</item>
+        <item>03-04</item>
+        <item>05-06</item>
+        <item>07-08</item>
+        <item>09-10</item>
+        <item>11-12</item>
+    </string-array>
+
+    <string-array name="empty_spn_jieci_content_xiangxi">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="empty_spn_build_content">
+        <item>全部</item>
+        <item>一教</item>
+        <item>三教</item>
+        <item>材料楼</item>
+    </string-array>
+
+
+    <string-array name="course_spn_build_content">
+        <item>全部</item>
+        <item>一教</item>
+        <item>三教</item>
+        <item>信息楼</item>
+        <item>知行楼</item>
+    </string-array>
+
+    <!--<string-array name="course_spn_zhouci_content">-->
+        <!--<item>01-08周</item>-->
+        <!--<item>08-16周</item>-->
+        <!--<item>01-16周</item>-->
+    <!--</string-array>-->
+
+    <string-array name="course_spn_name_content">
+        <item>全部</item>
+        <item>软件工程导论</item>
+        <item>计算机网络</item>
+        <item>操作系统</item>
+        <item>Java程序设计</item>
+        <item>.NET项目实训开发</item>
+        <item>统计学</item>
+    </string-array>
+
+    <!--<string-array name="course_spn_teacher_content">-->
+        <!--<item>全部</item>-->
+        <!--<item>程颖</item>-->
+        <!--<item>竹翠</item>-->
+        <!--<item>赵爱琴</item>-->
+        <!--<item>孙健</item>-->
+        <!--<item>蒋海华</item>-->
+        <!--<item>郑爽</item>-->
+        <!--<item>王涛</item>-->
+    <!--</string-array>-->
+</resources>
